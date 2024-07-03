@@ -1,2 +1,1 @@
-# landing-page
-TOP project
+TOP project to create a basic landing page.
