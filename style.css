@@ -135,14 +135,20 @@ height: auto;
     font-weight: 200;
     font-style: italic;
     display: flex;
+    flex-direction: column;
     box-sizing: border-box;
     padding: 70px;
-    flex-wrap: wrap;
-    justify-content: center;
+    align-items: center;
 }
 
+#thor   {
+    margin-left: 530px;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+}
 #quote-text {
-    flex-basis: 800px;
+    width: 800px;
 }
 
 
